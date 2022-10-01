@@ -1,1 +1,2 @@
-# lAB 2 : ВАРИАНТ 17
+# lABSMAI
+lab 2
