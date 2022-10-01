@@ -1,3 +1,5 @@
 # lABSMAI
-#lab 2    Done
-#lab 3    Done
+lab 2    Done  
+
+lab 3    Done  
+
